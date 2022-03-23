@@ -1,0 +1,13 @@
+.container
+{
+    width: 80%;
+    background-color: rgb(185, 139, 228);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+}
+.card
+{
+    margin: 10px;
+    
+}
